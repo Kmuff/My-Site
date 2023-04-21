@@ -13,3 +13,5 @@ ___
 * музыка
 * чтение
 ___
+
+<img src="Black Lark Portraits 2.jpg">
